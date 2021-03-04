@@ -8,7 +8,7 @@ git clone https://github.com/jotech/gapseq
 
 # For example, for Centos/Fedora/RHEL:
 
-module load R/3.6.1 					# Load this module if you are about to run gapseq on UNSW HPC katana
+module load R/3.6.1 					       # Load this module if you are about to run gapseq on UNSW HPC katana
 
 sudo yum install ncbi-blast+ git glpk-devel BEDTools exonerate hmmer bc
 git clone https://github.com/tseemann/barrnap.git
@@ -22,18 +22,18 @@ git clone https://github.com/jotech/gapseq && cd gapseq
 # Quickstart testing is recommended before analysing your own data: https://github.com/jotech/gapseq
 
 # Load dependencies on Katana, skip this if you work on your own computer.
-module load perl/5.28.0 			# Load this module if you are about to run gapseq on UNSW HPC katana
-module load git/2.22.0 				# Load this module if you are about to run gapseq on UNSW HPC katana
-module load bedtools/2.27.1 		# Load this module if you are about to run gapseq on UNSW HPC katana
-module load blast+/2.9.0 			# Load this module if you are about to run gapseq on UNSW HPC katana
-module load hmmer/3.2.1 			# Load this module if you are about to run gapseq on UNSW HPC katana
-module load glpk/4.65 				# Load this module if you are about to run gapseq on UNSW HPC katana
-module load barrnap/0.9 			# Load this module if you are about to run gapseq on UNSW HPC katana
-module load gcc/7.3.0 				# Load this module if you are about to run gapseq on UNSW HPC katana
-module load exonerate/2.2.0 		# Load this module if you are about to run gapseq on UNSW HPC katana
-module load parallel/20190522 		# Load this module if you are about to run gapseq on UNSW HPC katana
-module load libsbml/5.18.0 			# Load this module if you are about to run gapseq on UNSW HPC katana
-module add R/3.6.1  				# Load this module if you are about to run gapseq on UNSW HPC katana
+module load perl/5.28.0 			      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load git/2.22.0 				      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load bedtools/2.27.1 		    # Load this module if you are about to run gapseq on UNSW HPC katana
+module load blast+/2.9.0 			      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load hmmer/3.2.1 			      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load glpk/4.65 				      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load barrnap/0.9 			      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load gcc/7.3.0 				      # Load this module if you are about to run gapseq on UNSW HPC katana
+module load exonerate/2.2.0 		    # Load this module if you are about to run gapseq on UNSW HPC katana
+module load parallel/20190522 		  # Load this module if you are about to run gapseq on UNSW HPC katana
+module load libsbml/5.18.0 			    # Load this module if you are about to run gapseq on UNSW HPC katana
+module add R/3.6.1  				        # Load this module if you are about to run gapseq on UNSW HPC katana
 module load cplex/12.9.0-academic   # Load this module if you are about to run gapseq on UNSW HPC katana
 
 
