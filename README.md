@@ -11,8 +11,7 @@ STY2_bin_2.fna
 STY3_bin_1.fna
 STY4_bin_1.fna
 
-Its GTDB classification is d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__UBA5680;g__;s__
-It is a gram-negative bacteria.
+Its GTDB classification is d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__UBA5680;g__;s__. And it is a gram-negative bacteria.
 
 
 File(s) in the 'Output files' folder is obtained by running gapseq against STY_Merged_OTU01.fasta.
