@@ -14,9 +14,9 @@ STY4_bin_1.fna
 Its GTDB classification is d__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__UBA10353;f__UBA5680;g__;s__. And it is a gram-negative bacteria.
 
 
-File(s) in the 'Output files' folder is obtained by running gapseq against STY_Merged_OTU01.fasta.
+File(s) in the 'Output files' folder are obtained by running gapseq against STY_Merged_OTU01.fasta.
 STY_Merged_OTU01.RDS is the draft model.
 STY_Merged_OTU01.RDS-gapfilled.RDS is the final model with gene gaps filled.
 
 
-File(s) in the 'Growth medium' folder are the modified growth medium for different microbial taxa. You can create your own medium for a specific microorganism by adding/deleting compounds and change the flux values in the file.
+File(s) in the 'Growth medium' folder are the modified growth medium for different microbial taxa. You can create your own medium for a specific microorganism by adding/deleting compounds or changing the flux values in the file.
